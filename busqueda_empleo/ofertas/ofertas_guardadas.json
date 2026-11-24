@@ -1010,5 +1010,228 @@
       "LinkedIn Empleos Mercadona (Valencia)": "https://www.linkedin.com/jobs/search/?keywords=Mercadona&location=Valencia%2C%20Comunidad%20Valenciana%2C%20Espa%C3%B1a",
       "InfoJobs Ofertas Mercadona (Valencia)": "https://www.infojobs.net/ofertas-trabajo/mercadona/valencia"
     }
+  },
+  "radar_inditex_sagunto": {
+    "ultima_recarga": "2026-11-24 16:52:06",
+    "estado_proyecto": "Macro-hub logístico Parc Sagunt I (Tempe ~141.000 m² y Bershka ~116.000 m², fin de obras previsto mediados de 2027) y Parc Sagunt II (>381.000 m² junto a PowerCo).",
+    "total_ofertas_tecnicas": 0,
+    "ofertas_encontradas": [],
+    "enlaces_directos": {
+      "Inditex Careers (Portal Oficial)": "https://www.inditexcareers.com/portalweb/es/ofertas",
+      "Inditex People": "https://www.inditexpeople.com/",
+      "Tempe (Grupo Inditex)": "https://www.tempe.es/",
+      "Sagunto Emplea (Portal Municipal)": "https://sagunto.portalemp.com/",
+      "LinkedIn Inditex / Tempe / Bershka (Sagunto)": "https://www.linkedin.com/jobs/search/?keywords=Inditex%20OR%20Tempe%20OR%20Bershka&location=Sagunto%2C%20Comunidad%20Valenciana%2C%20Espa%C3%B1a"
+    }
+  },
+  "radar_volkswagen_powerco": {
+    "ultima_recarga": "2026-11-24 16:52:14",
+    "totales": {
+      "encaje_directo_fp": 2,
+      "oficina_automatizacion_ingenieria": 4,
+      "bolsa_talento": 1,
+      "otras_vacantes_tecnicas": 8,
+      "total_activas_filtradas": 15
+    },
+    "encaje_directo_fp": [
+      {
+        "id": "1272296901",
+        "titulo": "Maintenance Shopfloor Operator",
+        "empresa": "PowerCo (Grupo Volkswagen)",
+        "ubicacion": "Sagunto",
+        "categoria_cv": "encaje_directo_fp",
+        "url_oficial": "https://careers.powerco.de/Power_Holdco_Spain/job/Sagunto-Maintenance-Shopfloor-Operator/1272296901/",
+        "url_linkedin": "https://es.linkedin.com/jobs/view/maintenance-shopfloor-operator-at-powerco-4439314147",
+        "fuentes": [
+          "Portal PowerCo",
+          "LinkedIn"
+        ]
+      },
+      {
+        "id": "1272298701",
+        "titulo": "Production Shopfloor Operator",
+        "empresa": "PowerCo (Grupo Volkswagen)",
+        "ubicacion": "Sagunto",
+        "categoria_cv": "encaje_directo_fp",
+        "url_oficial": "https://careers.powerco.de/Power_Holdco_Spain/job/Sagunto-Production-Shopfloor-Operator/1272298701/",
+        "url_linkedin": "https://es.linkedin.com/jobs/view/production-shopfloor-operator-at-powerco-4340384331",
+        "fuentes": [
+          "Portal PowerCo",
+          "LinkedIn"
+        ]
+      }
+    ],
+    "oficina_automatizacion_ingenieria": [
+      {
+        "id": "1442233033",
+        "titulo": "Automation Process Optimization Expert",
+        "empresa": "PowerCo (Grupo Volkswagen)",
+        "ubicacion": "Valencia",
+        "categoria_cv": "oficina_automatizacion_ingenieria",
+        "url_oficial": "https://careers.powerco.de/Power_Holdco_Spain/job/Valencia-Automation-Process-Optimization-Expert/1442233033/",
+        "url_linkedin": "",
+        "fuentes": [
+          "Portal PowerCo"
+        ]
+      },
+      {
+        "id": "1421380133",
+        "titulo": "Commissioning, Automation & Readiness Expert",
+        "empresa": "PowerCo (Grupo Volkswagen)",
+        "ubicacion": "Sagunto",
+        "categoria_cv": "oficina_automatizacion_ingenieria",
+        "url_oficial": "https://careers.powerco.de/Power_Holdco_Spain/job/Sagunto-Commissioning%2C-Automation-&-Readiness-Expert/1421380133/",
+        "url_linkedin": "",
+        "fuentes": [
+          "Portal PowerCo"
+        ]
+      },
+      {
+        "id": "1421384533",
+        "titulo": "Facility Design & Infrastructure Engineering Expert",
+        "empresa": "PowerCo (Grupo Volkswagen)",
+        "ubicacion": "Sagunto",
+        "categoria_cv": "oficina_automatizacion_ingenieria",
+        "url_oficial": "https://careers.powerco.de/Power_Holdco_Spain/job/Sagunto-Facility-Design-&-Infrastructure-Engineering-Expert/1421384533/",
+        "url_linkedin": "",
+        "fuentes": [
+          "Portal PowerCo"
+        ]
+      },
+      {
+        "id": "1398326233",
+        "titulo": "Logistics Engineer (Outbound)",
+        "empresa": "PowerCo (Grupo Volkswagen)",
+        "ubicacion": "Sagunto",
+        "categoria_cv": "oficina_automatizacion_ingenieria",
+        "url_oficial": "https://careers.powerco.de/Power_Holdco_Spain/job/Sagunto-Logistics-Engineer-%28Outbound%29/1398326233/",
+        "url_linkedin": "",
+        "fuentes": [
+          "Portal PowerCo"
+        ]
+      }
+    ],
+    "bolsa_talento": [
+      {
+        "id": "1384921333",
+        "titulo": "Talent Pool",
+        "empresa": "PowerCo (Grupo Volkswagen)",
+        "ubicacion": "Valencia",
+        "categoria_cv": "bolsa_talento",
+        "url_oficial": "https://careers.powerco.de/Power_Holdco_Spain/job/Valencia-Talent-Pool/1384921333/",
+        "url_linkedin": "https://es.linkedin.com/jobs/view/talent-pool-at-powerco-4403464481",
+        "fuentes": [
+          "Portal PowerCo",
+          "LinkedIn"
+        ]
+      }
+    ],
+    "otras_vacantes_tecnicas": [
+      {
+        "id": "1272292301",
+        "titulo": "Logistics & Warehouse Shopfloor Operator (Operario/a de Logística y Almacén)",
+        "empresa": "PowerCo (Grupo Volkswagen)",
+        "ubicacion": "Sagunto",
+        "categoria_cv": "otras_vacantes_tecnicas",
+        "url_oficial": "https://careers.powerco.de/Power_Holdco_Spain/job/Sagunto-Logistics-&-Warehouse-Shopfloor-Operator/1272292301/",
+        "url_linkedin": "https://es.linkedin.com/jobs/view/operario-a-de-log%C3%ADstica-y-almac%C3%A9n-at-powerco-4487144488",
+        "fuentes": [
+          "Portal PowerCo",
+          "LinkedIn"
+        ]
+      },
+      {
+        "id": "1397800133",
+        "titulo": "New Product Introduction (NPI) Expert",
+        "empresa": "PowerCo (Grupo Volkswagen)",
+        "ubicacion": "Valencia",
+        "categoria_cv": "otras_vacantes_tecnicas",
+        "url_oficial": "https://careers.powerco.de/Power_Holdco_Spain/job/Valencia-New-Product-Introduction-%28NPI%29-Expert/1397800133/",
+        "url_linkedin": "",
+        "fuentes": [
+          "Portal PowerCo"
+        ]
+      },
+      {
+        "id": "1369464033",
+        "titulo": "Project Management Expert",
+        "empresa": "PowerCo (Grupo Volkswagen)",
+        "ubicacion": "Sagunto",
+        "categoria_cv": "otras_vacantes_tecnicas",
+        "url_oficial": "https://careers.powerco.de/Power_Holdco_Spain/job/Sagunto-Project-Management-Expert/1369464033/",
+        "url_linkedin": "https://es.linkedin.com/jobs/view/project-management-expert-at-powerco-4492449610",
+        "fuentes": [
+          "Portal PowerCo",
+          "LinkedIn"
+        ]
+      },
+      {
+        "id": "1458792833",
+        "titulo": "Project Management Expert",
+        "empresa": "PowerCo (Grupo Volkswagen)",
+        "ubicacion": "Sagunto",
+        "categoria_cv": "otras_vacantes_tecnicas",
+        "url_oficial": "https://careers.powerco.de/Power_Holdco_Spain/job/Sagunto-Project-Management-Expert/1458792833/",
+        "url_linkedin": "",
+        "fuentes": [
+          "Portal PowerCo"
+        ]
+      },
+      {
+        "id": "1272312101",
+        "titulo": "Quality & Laboratory Shopfloor Operator (Operario/a de Calidad y Laboratorio)",
+        "empresa": "PowerCo (Grupo Volkswagen)",
+        "ubicacion": "Valencia",
+        "categoria_cv": "otras_vacantes_tecnicas",
+        "url_oficial": "https://careers.powerco.de/Power_Holdco_Spain/job/Valencia-Quality-&-Laboratory-Shopfloor-Operator/1272312101/",
+        "url_linkedin": "https://es.linkedin.com/jobs/view/operario-a-de-calidad-y-laboratorio-at-powerco-4487138903",
+        "fuentes": [
+          "Portal PowerCo",
+          "LinkedIn"
+        ]
+      },
+      {
+        "id": "1369489633",
+        "titulo": "Series Planner Expert",
+        "empresa": "PowerCo (Grupo Volkswagen)",
+        "ubicacion": "Sagunto",
+        "categoria_cv": "otras_vacantes_tecnicas",
+        "url_oficial": "https://careers.powerco.de/Power_Holdco_Spain/job/Sagunto-Series-Planner-Expert/1369489633/",
+        "url_linkedin": "",
+        "fuentes": [
+          "Portal PowerCo"
+        ]
+      },
+      {
+        "id": "1454369433",
+        "titulo": "Series Planner Expert (Electrode)",
+        "empresa": "PowerCo (Grupo Volkswagen)",
+        "ubicacion": "Sagunto",
+        "categoria_cv": "otras_vacantes_tecnicas",
+        "url_oficial": "https://careers.powerco.de/Power_Holdco_Spain/job/Sagunto-Series-Planner-Expert-%28Electrode%29/1454369433/",
+        "url_linkedin": "",
+        "fuentes": [
+          "Portal PowerCo"
+        ]
+      },
+      {
+        "id": "1460107233",
+        "titulo": "Value Chain Expert (Inhouse Logistics)",
+        "empresa": "PowerCo (Grupo Volkswagen)",
+        "ubicacion": "Valencia",
+        "categoria_cv": "otras_vacantes_tecnicas",
+        "url_oficial": "https://careers.powerco.de/Power_Holdco_Spain/job/Valencia-Value-Chain-Expert-%28Inhouse-Logistics%29/1460107233/",
+        "url_linkedin": "https://es.linkedin.com/jobs/view/value-chain-expert-inhouse-logistics-at-powerco-4494148756",
+        "fuentes": [
+          "Portal PowerCo",
+          "LinkedIn"
+        ]
+      }
+    ],
+    "enlaces_directos": {
+      "Portal Oficial PowerCo — Sagunto": "https://careers.powerco.de/search/?q=&locationsearch=Sagunto",
+      "Portal Oficial PowerCo — Valencia": "https://careers.powerco.de/search/?q=&locationsearch=Valencia",
+      "LinkedIn PowerCo (Sagunto / Valencia)": "https://www.linkedin.com/jobs/search/?keywords=PowerCo&location=Valencia%2C%20Comunidad%20Valenciana%2C%20Espa%C3%B1a"
+    }
   }
 }
