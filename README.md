@@ -1,25 +1,34 @@
-# 💼 Buscador de Trabajo — Carlos Molina Gil
+# 🚀 Espacio de Proyectos — Carlos Molina Gil
 
-Repositorio personal para la búsqueda activa y automatizada de empleo en **Valencia y alrededores** (Oficina Técnica Eléctrica, EPLAN Electric P8, AutoCAD, Automatización Industrial, PLC/HMI, Neumática y Diseño Mecánico con Solid Edge / Siemens NX).
+Repositorio principal organizado en módulos independientes para el desarrollo de proyectos y automatización con el asistente **Antigravity**.
 
 ---
 
-## 🚀 Cómo trabajamos en este proyecto
+## 📂 Organización de Módulos
 
-Este repositorio funciona como mi centro de control junto con el asistente de **Antigravity**:
+El repositorio está estructurado en módulos completamente separados para mantener el código y los recursos aislados y ordenados:
 
-1. **☁️ Sincronización directa con Google Drive:**
-   - Los archivos originales de mi CV (PDFs de 1 y 2 páginas, imágenes y fotos) se gestionan directamente desde mi carpeta de Google Drive y se sincronizan automáticamente con [`busqueda_empleo/notebooks/sincronizar_drive.py`](busqueda_empleo/notebooks/sincronizar_drive.py).
-2. **💬 Búsqueda y Postulación desde el Chat + Navegador:**
-   - A través del chat de Antigravity (conectado a **Google Chrome**, **LinkedIn** e **InfoJobs**), buscamos ofertas nuevas día a día, filtramos las más competitivas con enlaces directos y nos inscribimos directamente en las plataformas.
-3. **📓 Notebook de Radar y Recarga de Ofertas:**
-   - [`busqueda_empleo/notebooks/buscador_ofertas.ipynb`](busqueda_empleo/notebooks/buscador_ofertas.ipynb): Sincroniza el CV desde Drive, consulta ofertas reales activas en Valencia en tiempo real y actualiza el historial en [`busqueda_empleo/ofertas/ofertas_guardadas.json`](busqueda_empleo/ofertas/ofertas_guardadas.json).
-4. **🤖 Guías de Prompts y Perfiles:**
-   - [`busqueda_empleo/docs/guia_prompts_empleo.md`](busqueda_empleo/docs/guia_prompts_empleo.md): Plantillas de prompts para adaptar candidaturas, redactar mensajes a reclutadores y preparar entrevistas técnicas.
-   - [`busqueda_empleo/docs/optimizacion_linkedin.md`](busqueda_empleo/docs/optimizacion_linkedin.md): Textos base y palabras clave SEO utilizadas en mis perfiles de LinkedIn e InfoJobs.
+### 💼 1. Módulo: Búsqueda de Empleo (`busqueda_empleo/`)
+Centro de control para la búsqueda activa y automatizada de empleo en **Valencia y alrededores** (Oficina Técnica Eléctrica, EPLAN Electric P8, AutoCAD, Automatización Industrial y Diseño Mecánico):
+- **☁️ Sincronización Google Drive:** [`busqueda_empleo/notebooks/sincronizar_drive.py`](busqueda_empleo/notebooks/sincronizar_drive.py) mantiene actualizados los PDFs y fotos del CV.
+- **📓 Notebook Radar de Ofertas:** [`busqueda_empleo/notebooks/buscador_ofertas.ipynb`](busqueda_empleo/notebooks/buscador_ofertas.ipynb) para consultar, filtrar y recargar ofertas activas en [`busqueda_empleo/ofertas/ofertas_guardadas.json`](busqueda_empleo/ofertas/ofertas_guardadas.json).
+- **🤖 Documentación & Perfiles:** Guías de prompts y optimización SEO para LinkedIn e InfoJobs en [`busqueda_empleo/docs/`](busqueda_empleo/docs/).
+
+---
+
+### 🚗 2. Módulo: Proyecto GTA (`gta/`)
+Entorno de desarrollo y prototipado inspirado en Grand Theft Auto (mecánicas de jugador, conducción, misiones y mapa urbano):
+- **📓 Notebook Interactivo:** [`gta/notebooks/gta_proyecto.ipynb`](gta/notebooks/gta_proyecto.ipynb) con simulación paso a paso de entidades, misiones y mini-radar gráfico 2D con Matplotlib.
+- **⚙️ Código Fuente Modular (`gta/src/`):**
+  - [`motor.py`](gta/src/motor.py): Clases base `Jugador`, `Vehiculo` y `Mision`.
+  - [`config.py`](gta/src/config.py): Ajustes de física, velocidades y dimensiones.
+- **🗺️ Documentación & Hoja de Ruta (`gta/docs/`):**
+  - [`roadmap_gta.md`](gta/docs/roadmap_gta.md): Opciones de desarrollo (Juego 2D con Pygame, Servidores FiveM, Bot/Visión artificial con OpenCV, o Análisis de datos).
+  - [`recursos_gta.md`](gta/docs/recursos_gta.md): Enlaces y documentación recomendada.
+- **💾 Datos y Partidas (`gta/data/`):** Guardado de estado de juego en JSON.
 
 ---
 
 ## 🌿 Estructura de Ramas (Git)
 - **`main`**: Versión base estable del repositorio.
-- **`develop`**: Rama de trabajo diario donde actualizamos las ofertas encontradas, scripts y mejoras.
+- **`develop`**: Rama de trabajo diario donde actualizamos ofertas, notebooks y prototipos.
