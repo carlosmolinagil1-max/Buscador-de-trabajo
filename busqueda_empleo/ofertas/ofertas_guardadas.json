@@ -1233,5 +1233,73 @@
       "Portal Oficial PowerCo — Valencia": "https://careers.powerco.de/search/?q=&locationsearch=Valencia",
       "LinkedIn PowerCo (Sagunto / Valencia)": "https://www.linkedin.com/jobs/search/?keywords=PowerCo&location=Valencia%2C%20Comunidad%20Valenciana%2C%20Espa%C3%B1a"
     }
+  },
+  "radar_multinacionales_oficina_tecnica": {
+    "ultima_recarga": "2026-11-25 14:21:56",
+    "criterios": "Multinacionales consolidadas <30 min Manises | Oficina Técnica, EPLAN, CAD, BOM, Proyectos | Horario Oficina | ≥ 30.000 €/año",
+    "total_ofertas_encontradas": 5,
+    "multinacionales_directas": [
+      {
+        "titulo": "Engineer, Mechanical Design",
+        "empresa": "Celestica",
+        "ubicacion": "Valencia/València",
+        "categoria": "Multinacional Diana",
+        "es_multinacional_directa": true,
+        "salario_estimado": "≥ 30.000 € - 42.000 € brutos/año (Banda Convenio Industria / Gran Cuenta)",
+        "jornada": "Jornada Ordinaria / Horario de Oficina",
+        "url_linkedin": "https://es.linkedin.com/jobs/view/engineer-mechanical-design-at-celestica-4462938441"
+      }
+    ],
+    "otras_grandes_cuentas_oficina": [
+      {
+        "titulo": "Ingeniero/a de Producto / CAD – Automoción",
+        "empresa": "BCNC GROUP",
+        "ubicacion": "Valencia/València",
+        "categoria": "Gran Industria / Consultoría Técnica",
+        "es_multinacional_directa": false,
+        "salario_estimado": "≥ 30.000 € - 42.000 € brutos/año (Banda Convenio Industria / Gran Cuenta)",
+        "jornada": "Jornada Ordinaria / Horario de Oficina",
+        "url_linkedin": "https://es.linkedin.com/jobs/view/ingeniero-a-de-producto-cad-%E2%80%93-automoci%C3%B3n-at-bcnc-group-4486858258"
+      },
+      {
+        "titulo": "INGENIERO/A DE DISEÑO MECÁNICO INDUSTRIAL",
+        "empresa": "DSC",
+        "ubicacion": "l'Alcora",
+        "categoria": "Gran Industria / Consultoría Técnica",
+        "es_multinacional_directa": false,
+        "salario_estimado": "≥ 30.000 € - 42.000 € brutos/año (Banda Convenio Industria / Gran Cuenta)",
+        "jornada": "Jornada Ordinaria / Horario de Oficina",
+        "url_linkedin": "https://es.linkedin.com/jobs/view/ingeniero-a-de-dise%C3%B1o-mec%C3%A1nico-industrial-at-dsc-4453202033"
+      },
+      {
+        "titulo": "INGENIERO/A OFICINA TECNICA - ALBAL",
+        "empresa": "Grupo Soledad",
+        "ubicacion": "Albal",
+        "categoria": "Gran Industria / Consultoría Técnica",
+        "es_multinacional_directa": false,
+        "salario_estimado": "≥ 30.000 € - 42.000 € brutos/año (Banda Convenio Industria / Gran Cuenta)",
+        "jornada": "Jornada Ordinaria / Horario de Oficina",
+        "url_linkedin": "https://es.linkedin.com/jobs/view/ingeniero-a-oficina-tecnica-albal-at-grupo-soledad-4484013760"
+      },
+      {
+        "titulo": "Ingeniero de Oficina Técnica I+D",
+        "empresa": "ISTOBAL S.A.",
+        "ubicacion": "L'Alcùdia",
+        "categoria": "Gran Industria / Consultoría Técnica",
+        "es_multinacional_directa": false,
+        "salario_estimado": "≥ 30.000 € - 42.000 € brutos/año (Banda Convenio Industria / Gran Cuenta)",
+        "jornada": "Jornada Ordinaria / Horario de Oficina",
+        "url_linkedin": "https://es.linkedin.com/jobs/view/ingeniero-de-oficina-t%C3%A9cnica-i%2Bd-at-istobal-group-4482946563"
+      }
+    ],
+    "portales_candidatura_espontanea": {
+      "Power Electronics (Trabaja con nosotros)": "https://powerelectronics.com/es/talento/",
+      "Schneider Electric Careers (España)": "https://www.se.com/es/es/about-us/careers/overview.jsp",
+      "Celestica Careers (Valencia/Pobla)": "https://careers.celestica.com/",
+      "Danone Empleo España": "https://careers.danone.com/es-es.html",
+      "Ford España Empleo": "https://www.ford.es/acerca-de-ford/corporativo/empleo",
+      "Mercadona Empleo (Oficinas/Instalaciones)": "https://mercadona.avature.net/es_ES/Careers/SearchJobs/Valencia",
+      "PowerCo (Gigafactoría Sagunto/Valencia)": "https://careers.powerco.de/search/?q=&locationsearch=Valencia"
+    }
   }
 }
