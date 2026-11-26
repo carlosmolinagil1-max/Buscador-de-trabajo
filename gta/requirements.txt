@@ -1,4 +1,0 @@
-# Dependencias para el Creador Automatizado de Shorts GTA
-yt-dlp>=2024.0.0
-edge-tts>=6.1.0
-requests>=2.31.0
